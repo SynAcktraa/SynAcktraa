@@ -8,7 +8,7 @@ I'm Mikey, a novice programmer and cyber security enthusiast.
 
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackitMikey&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
 
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=HackitMikey&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Raiden's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=HackitMikey&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mikey's GitHub Stats" />
 
 <br>
 <br>
