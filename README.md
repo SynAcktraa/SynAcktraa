@@ -33,7 +33,3 @@ I'm Mikey, a novice programmer and cyber security enthusiast.
 <a href="https://github.com/hackitmikey/github-readme-activity-graph"><img alt="Vipul Chaudhary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hackitmikey&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-
-
-# Viewer Count : ![Visitor Count](https://profile-counter.glitch.me/{hackitmikey}/count.svg)
-
