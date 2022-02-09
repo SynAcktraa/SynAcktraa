@@ -33,7 +33,5 @@ I'm Mikey, a novice programmer and cyber security enthusiast.
 
 <br/>
 
-<br>
 
-Viewer Count :
- ![Visitor Count](https://profile-counter.glitch.me/{hackitmikey}/count.svg)
+# Viewer Count : ![Visitor Count](https://profile-counter.glitch.me/{hackitmikey}/count.svg)
