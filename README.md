@@ -2,6 +2,8 @@
 
 I'm Mikey, a novice programmer and cyber security enthusiast.
 
+![](https://komarev.com/ghpvc/?username=hackitmikey&color=blueviolet)
+
 ## 💼 Technologies and Tools
 
 <br/>
@@ -34,3 +36,4 @@ I'm Mikey, a novice programmer and cyber security enthusiast.
 
 
 # Viewer Count : ![Visitor Count](https://profile-counter.glitch.me/{hackitmikey}/count.svg)
+
