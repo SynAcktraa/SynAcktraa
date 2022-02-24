@@ -27,7 +27,7 @@
 
 ## &#x1f4c8; My GitHub Stats
   <br/>
-<p align="center"><a href="https://github.com/hackitmikey/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hackitmikey&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Mikey's Github Stats" /></a></p>
+<p align="center"><a href="https://github.com/hackitmikey/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hackitmikey&amp;show_icons=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Mikey's Github Stats" /></a></p>
 
 <br/>
 
@@ -44,4 +44,3 @@
 
 <hr>
 
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=hackitmikey&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117 -->
