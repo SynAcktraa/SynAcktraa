@@ -8,6 +8,8 @@
   <img src="https://profile-counter.glitch.me/hackitmikey/count.svg" />
 </div>
 
+---
+
 ## 💼 Technologies and Tools
 
 <br/>
@@ -20,6 +22,8 @@
       </a> <a href="https://www.shellscript.sh/" target="_blank"> <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" alt="shell" width="40" height="40"/> </a> 
       <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
+
+---
 
 ## &#x1f4c8; My GitHub Stats
   <br/>
@@ -39,6 +43,3 @@
 <br/>
 
 <hr>
-<div align="center">
-<img align="middle" src="https://discord.c99.nl/widget/theme-1/890664690533957643.png">
-</div>
