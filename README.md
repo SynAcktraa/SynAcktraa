@@ -3,7 +3,7 @@
 
 <div align='center'>
 
-### Visitors Count 
+### Visitors Count &#x21B4;
 
   <img src="https://profile-counter.glitch.me/hackitmikey/count.svg" />
 </div>
