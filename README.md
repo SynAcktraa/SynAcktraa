@@ -39,7 +39,9 @@
 <br/>
 
 
-  [![Mikey Github Stat's](https://github-readme-streak-stats.herokuapp.com/?user=HackitMikey&theme=chartreuse-dark)](https://git.io/streak-stats)
+<p align="center">
+    <a href="https://github.com/hackitmikey/github-readme-stats"><img alt="Mikey's Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=HackitMikey&theme=chartreuse-dark" /></a>
+</p>
 
 <br/>
 
