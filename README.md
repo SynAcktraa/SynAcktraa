@@ -27,18 +27,19 @@
 
 ## &#x1f4c8; My GitHub Stats
   <br/>
-<p align="center"><a href="https://github.com/hackitmikey/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hackitmikey&amp;show_icons=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" alt="Mikey's Github Stats" /></a></p>
+<p align="center"><a href="https://github.com/hackitmikey/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=hackitmikey&amp;show_icons=true&amp;theme=chartreuse-dark" alt="Mikey's Github Stats" /></a></p>
 
 <br/>
 
 
 <p align="center">
-    <a href="https://github.com/hackitmikey/github-readme-stats"><img alt="Mikey's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackitmikey&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/hackitmikey/github-readme-stats"><img alt="Mikey's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackitmikey&langs_count=8&layout=compact&theme=chartreuse-dark" /></a>
 </p>
 
 <br/>
 
-<a href="https://github.com/hackitmikey/github-readme-activity-graph"><img alt="Mikey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hackitmikey&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+  [![Mikey Github Stat's](https://github-readme-streak-stats.herokuapp.com/?user=HackitMikey&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 <br/>
 
