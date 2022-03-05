@@ -7,6 +7,6 @@
 
 <img src="https://i.imgur.com/hYjV5kS.gif" title="source: imgur.com" align="left"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=synacktraa&amp;show_icons=true&amp;theme=chartreuse-dark" alt="Synacktra's Github Stats" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=synacktraa&amp;show_icons=true&amp;theme=chartreuse-dark&amp;center=true" alt="Synacktra's Github Stats" align="center"/>
 
 
