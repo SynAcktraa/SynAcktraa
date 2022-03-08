@@ -7,7 +7,7 @@
 
 <img src="https://i.imgur.com/hYjV5kS.gif" title="source: imgur.com" align="left"/>
 
-<p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api?username=synacktraa&amp;show_icons=true&hide=issues&amp;theme=great-gatsby" alt="Synacktra's Github Stats"/></p>
+<p align="center"><img width="450" src="https://github-readme-stats.vercel.app/api?username=synacktraa&amp;show_icons=true&hide=issues&amp;theme=rose_pine" alt="Synacktra's Github Stats"/></p>
 
 
 
