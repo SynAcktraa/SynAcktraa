@@ -8,7 +8,7 @@
     Visitors
 </h3>
 <div align="center">
-<img src="https://count.getloli.com/get/@synacktraa?theme=rule34" alt="counter"/>
+<img src="https://count.getloli.com/get/@whinee?theme=rule34" alt="counter"/>
 </div>
 <sub>
     <p align="center">
