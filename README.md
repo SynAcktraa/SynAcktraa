@@ -4,6 +4,16 @@
     <img height="142" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synacktraa&layout=compact&theme=calm&cache_seconds=1800&border_radius=10" />
     
 </div>
-<p align=center>
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:synacktraa.github.readme?theme=gelbooru"/></a><br/>
-</p>
+<h3 align="center">
+    Visitors
+</h3>
+<div align="center">
+<img src="https://count.getloli.com/get/@synacktraa?theme=rule34" alt="counter"/>
+</div>
+<sub>
+    <p align="center">
+        <i>
+            NOTE: Visitors counted since 5 April 2022
+        </i>
+    </p>
+</sub>
