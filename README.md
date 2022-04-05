@@ -13,7 +13,7 @@
 <sub>
     <p align="center">
         <i>
-            NOTE: Visitors counted since 5 April 2022
+            NOTE: Visitors counted since 6 December 2021
         </i>
     </p>
 </sub>
