@@ -4,3 +4,5 @@
     <img height="142" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synacktraa&layout=compact&theme=calm&cache_seconds=1800&border_radius=10" />
     
 </div>
+
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:synacktraa.github.readme?theme=gelbooru"/></a><br/>
