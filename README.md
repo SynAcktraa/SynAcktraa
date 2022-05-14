@@ -14,9 +14,9 @@
 	<a href="https://discordapp.com/users/890664690533957643" valign="middle">
 		<img height="13" alt="Discord Icon" src="https://maxcdn.icons8.com/Share/icon/Logos/discord_logo1600.png" />
 		SynAcktra#7785
-	</a>
+	</a> | 
 	<a href="https://medium.com/@synacktra" valign="middle">
-		<img height="13" alt="Medium Icon" src="https://img.icons8.com/ios-filled/344/medium-logo.png" />
+		<img style="background-color: white" height="13" alt="Medium Icon" src="https://img.icons8.com/ios-filled/344/medium-logo.png" />
 		@synacktra
 	</a>
 </p>
